@@ -1,10 +1,10 @@
-# LightDesk
+## LightDesk
 A lightweight desktop hub for **optimization, monitoring, and screen recording** - build for low-end PCs.
 Minimal dependencies, offline support, and a simple, modern interface.
 
 ![LightDesk](assest/icon.svg)
 
-##Features (MVP)
+## Features (MVP)
 - Safe system cleanup (trmp, cache, browser data)
 - Real-time CPU / RAM monitor
 - Network tools: ping test, speed test (via 'speedtest-cli')
