@@ -2,7 +2,7 @@
 A lightweight desktop hub for **optimization, monitoring, and screen recording** - build for low-end PCs.
 Minimal dependencies, offline support, and a simple, modern interface.
 
-![LightDesk](assest/5467498152857829280.jpg)
+![LightDesk](assets/5467498152857829280.jpg)
 
 ## Features (MVP)
 - Safe system cleanup (trmp, cache, browser data)
